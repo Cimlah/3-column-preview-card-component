@@ -76,10 +76,11 @@ img {
 
 button {
     background-color: var(--colour-very-light-gray);
-    border: none;
+    border: 2px solid var(--colour-very-light-gray);
     border-radius: 25px;
-    padding: 0.8rem;
-    width: 50%;
+    padding: 1rem;
+    width: 65%;
+    cursor: pointer;
 
     align-self: flex-end;
 }
@@ -108,4 +109,9 @@ button {
 
 .luxury button {
     color: var(--colour-very-dark-cyan);
+}
+
+button:hover {
+    color: var(--colour-very-light-gray);
+    background-color: transparent;
 }
