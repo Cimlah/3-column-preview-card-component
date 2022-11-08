@@ -1,0 +1,15 @@
+@media (orientation: portrait) {
+    .cards {
+        width: 95%;
+        grid-template-columns: 1fr;
+        margin: 0.5rem 0 0.5rem 0;
+    }
+
+    .sedans {
+        border-radius: var(--border-radius) var(--border-radius) 0 0;
+    }
+
+    .luxury {
+        border-radius: 0 0 var(--border-radius) var(--border-radius);
+    }
+}

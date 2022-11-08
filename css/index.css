@@ -23,7 +23,7 @@
 body {
     background-color: var(--colour-very-light-gray);
     width: 100vw;
-    height: 100vh;
+    min-height: 100vh;
 
     display: grid;
     grid-template-rows: 1fr min-content;
