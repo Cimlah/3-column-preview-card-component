@@ -1,3 +1,9 @@
+@media (max-width: 1680px) {
+    .cards {
+        width: 80%;
+    }
+}
+
 @media (orientation: portrait) {
     .cards {
         width: 90%;
@@ -11,11 +17,5 @@
 
     .luxury {
         border-radius: 0 0 var(--border-radius) var(--border-radius);
-    }
-}
-
-@media (max-width: 1680px) {
-    .cards {
-        width: 80%;
     }
 }
