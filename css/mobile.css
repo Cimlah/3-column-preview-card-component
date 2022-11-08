@@ -1,6 +1,6 @@
 @media (orientation: portrait) {
     .cards {
-        width: 95%;
+        max-width: 90%;
         grid-template-columns: 1fr;
         margin: 0.5rem 0 0.5rem 0;
     }
