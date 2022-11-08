@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/3column-preview-card-component-with-css-grid-QeMOXFCl9x)
 - [Live Site URL](https://cimlah.github.io/3-column-preview-card-component/)
 
 ## Author
