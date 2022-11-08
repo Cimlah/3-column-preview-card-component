@@ -1,2 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap');
+
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
+
+:root {
+    --colour-bright-orange: hsl(31, 77%, 52%);
+    --colour-dark-cyan: hsl(184, 100%, 22%);
+    --colour-very-dark-cyan: hsl(179, 100%, 13%);
+    --colour-transparent-white: hsla(0, 0%, 100%, 0.75);
+    --colour-very-light-gray: hsl(0, 0%, 95%);
+    --border-radius: 10px;
+
+    font-size: 15px;
+}
